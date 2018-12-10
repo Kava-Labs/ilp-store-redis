@@ -1,5 +1,5 @@
 {
-  "name": "ilp-store-redis",
+  "name": "@kava-labs/ilp-store-redis",
   "version": "1.0.0",
   "description": "ILP store for redis",
   "main": "src/index.js",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/interledgerjs/ilp-store-redis.git"
+    "url": "git+https://github.com/kava-labs/ilp-store-redis.git"
   },
   "keywords": [
     "ilp",
@@ -24,9 +24,9 @@
   "author": "Interledger Team <info@interledger.org>",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/interledgerjs/ilp-store-redis/issues"
+    "url": "https://github.com/kava-labs/ilp-store-redis/issues"
   },
-  "homepage": "https://github.com/interledgerjs/ilp-store-redis#readme",
+  "homepage": "https://github.com/kava-labs/ilp-store-redis#readme",
   "dependencies": {
     "ioredis": "^3.2.2"
   },

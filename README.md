@@ -2,7 +2,7 @@
 > ILP store for the connector, using redis as a backend
 
 ```js
-const Store = require('ilp-store-redis')
+const Store = require('@kava-labs/ilp-store-redis')
 const redisStore = new Store({
   path: 'test.example', // used as prefix for keys and publish
   port: 6379 // extra arguments are passed to `ioredis` constructor
