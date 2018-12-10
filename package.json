@@ -9,6 +9,9 @@
     "src/**/*.js",
     "src/**/*.js.map"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "build": "tsc"
   },

@@ -1,5 +1,14 @@
 # ILP Store Redis
+
 > ILP store for the connector, using redis as a backend
+
+### Install
+
+```shell
+npm i @kava-labs/ilp-store-redis
+```
+
+### Usage
 
 ```js
 const Store = require('@kava-labs/ilp-store-redis')
